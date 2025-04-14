@@ -14,8 +14,7 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 set :build_dir, 'docs'
 activate :relative_assets
-
-
+activate :i18n, :mount_at_root => :en
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
