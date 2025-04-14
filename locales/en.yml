@@ -1,5 +1,7 @@
 ---
 en:
+  date: "Event Date/Time:"
+  location: "Event Location:"
   company: Henderson Land Development Co. Ltd.
   date1:
     name: May 1 (Thu)
