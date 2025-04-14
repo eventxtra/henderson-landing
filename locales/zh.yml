@@ -1,7 +1,17 @@
 ---
 zh:
-  date1: 五月一號（星期四）
-  date2: 五月二號（星期五）
-  date3: 五月三號（星期六）
-  date4: 五月四號（星期日）
-  date5: 五月五號（星期一）
+  date1:
+    name: 五月一號（星期四）
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
+  date2:
+    name: 五月二號（星期五）
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
+  date3: 
+    name: 五月三號（星期六）
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
+  date4:
+    name: 五月四號（星期日）
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
+  date5: 
+    name: 五月五號（星期一）
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"

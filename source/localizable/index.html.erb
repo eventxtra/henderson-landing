@@ -13,10 +13,20 @@
         </div>
       </div>
       <div class="col-12 col-md-2">
-        <button type="button" class="btn btn-block btn-secondary btn-color"><%= I18n.t(:date1) %></button>
-        <button type="button" class="btn btn-block btn-secondary btn-color"><%= I18n.t(:date2) %></button>
-        <button type="button" class="btn btn-block btn-secondary btn-color"><%= I18n.t(:date3) %></button>
-        <button type="button" class="btn btn-block btn-secondary btn-color"><%= I18n.t(:date4) %></button>
-        <button type="button" class="btn btn-block btn-secondary btn-color"><%= I18n.t(:date5) %></button>
+        <a href=<%= t('date1.url') %> target="_BLANK">
+          <button type="button" class="btn btn-block btn-secondary btn-color"><%= t('date1.name') %></button>
+        </a>
+        <a href=<%= t('date2.url') %> target="_BLANK">
+          <button type="button" class="btn btn-block btn-secondary btn-color"><%= t('date2.name') %></button>
+        </a>
+        <a href=<%= t('date3.url') %> target="_BLANK">
+          <button type="button" class="btn btn-block btn-secondary btn-color"><%= t('date3.name') %></button>
+        </a>
+        <a href=<%= t('date4.url') %> target="_BLANK">
+          <button type="button" class="btn btn-block btn-secondary btn-color"><%= t('date4.name') %></button>
+        </a>
+        <a href=<%= t('date5.url') %> target="_BLANK">
+          <button type="button" class="btn btn-block btn-secondary btn-color"><%= t('date5.name') %></button>
+        </a>
     </div>
   </div>

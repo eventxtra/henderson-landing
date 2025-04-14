@@ -1,7 +1,17 @@
 ---
 en:
-  date1: May 1 (Thu)
-  date2: May 2 (Fri)
-  date3: May 3 (Sat)
-  date4: May 4 (Sun)
-  date5: May 5 (Mon)
+  date1:
+    name: May 1 (Thu)
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
+  date2:
+    name: May 2 (Fri)
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
+  date3: 
+    name: May 3 (Sat)
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
+  date4:
+    name: May 4 (Sun)
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
+  date5: 
+    name: May 5 (Mon)
+    url: "https://2vx.co/LErZIpV?lng=zh-HK&auto_show_reg_form=true"
