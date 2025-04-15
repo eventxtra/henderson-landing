@@ -1,6 +1,6 @@
-source 'https://mirrors.tuna.tsinghua.edu.cn/rubygems/'
+source 'https://rubygems.org'
 
-gem 'middleman', '~> 4.5'
+gem 'middleman', '~> 4.6'
 gem 'middleman-autoprefixer', '~> 3.0'
 gem 'terser', '~> 1.1'
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby, :x64_mingw]
