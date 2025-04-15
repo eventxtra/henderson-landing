@@ -38,4 +38,6 @@ p.title {
   width: 100%;
   margin: 5px 0;
   border: #D2B48C;
+  text-align: left;
+  padding-left: 50px;
   --bs-btn-hover-bg: #A6A6A6; }
