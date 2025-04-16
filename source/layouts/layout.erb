@@ -18,10 +18,22 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-9631NEMGZY');
     </script>
   <body>
+
+    <!-- As a heading -->
+    <nav class="navbar bg-body-tertiary">
+      <div class="container" style="display: block;">
+        <div class="col-12 col-lg-6"></div>
+        <div class="col-lg-2" style="float: right;" >
+            <a style="text-decoration: none;" href="<%= url_for(current_page, locale: :zh)%>"><span>繁</span></a>
+            <a style="text-decoration: none;" href="<%= url_for(current_page, locale: :en)%>"><span>英</span></a>
+        </div>
+      </div>
+    </nav>
     <%= yield %>
   </body>
 </html>
+
+
