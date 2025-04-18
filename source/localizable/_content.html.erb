@@ -4,9 +4,10 @@
     <%= image_tag 'banner.png', :style => "width: 100%; display: block; margin: 0 auto;" %>
     </div>
   </div>
-  <div style="margin: 30px 0" class="row justify-content-md-center">
+  <div style="margin: 10px 0" class="row justify-content-md-center">
+    <%# left %>
     <div class="col-12 col-lg-6">
-      <div style="margin: 30px 0">
+      <div style="margin: 10px 0">
         <p class="content"><%= t('company') %></p>
         <p class="title"><%= t('title') %></p>
         <p class="date"><%= t('date') %></p>
@@ -17,15 +18,18 @@
         <a href="https://maps.app.goo.gl/HP8eswEBRNqwi2Ns7" target="_BLANK"><%= t('view_map') %></a>
       </div>
     </div>
-    <div class="col-12 col-lg-2" style="margin-top: 0px">
+    <%# right  %>
+    <div class="col-12 col-lg-2" style="margin-top: 10px">
       <p class="content"><%= t('select_date') %></p>
       <% data.each do |d| %>
         <a href=<%= d[1] %>>
-        <button type="button" style="font-weight: 700;" class="btn btn-block btn-secondary btn-color"><%= d[0] %></button>
+        <button type="button" style="font-weight: 700; font-size: 18px" class="btn btn-block btn-secondary btn-color"><%= d[0] %></button>
       </a>
       <% end %>
+    </div>
   </div>
-  <div class="row justify-content-md-center">
+  <%# des %>
+  <div style="margin-top: 30px" class="row justify-content-md-center">
     <div class="col-12 col-lg-8">
       <p class="content" style="font-weight: 700;"><%= t('des_title1') %></p>
       <p class="content"><%= t('des_content1') %></p>
@@ -37,4 +41,3 @@
       <p class="content"><%= t('des_content3') %></p>
     </div>
   </div>
-</div>
