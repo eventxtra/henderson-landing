@@ -33,7 +33,13 @@ activate :i18n, :mount_at_root => :en
 # Helpers
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
+configure :development do
+  set :host, 'localhost:4567'
+end
 
+configure :build do
+  set :host, 'hendenson.eventx.io'
+end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
