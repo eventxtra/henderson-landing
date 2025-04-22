@@ -38,7 +38,7 @@ configure :development do
 end
 
 configure :build do
-  set :host, 'hendenson.eventx.io'
+  set :host, 'henderson.eventx.io'
 end
 
 # Build-specific configuration
