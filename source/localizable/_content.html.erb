@@ -22,9 +22,13 @@
     <div class="col-12 col-lg-2" style="margin-top: 10px">
       <p class="content"><%= t('select_date') %></p>
       <% data.each do |d| %>
-        <a href=<%= d[1] %>>
-        <button type="button" style="font-weight: 700; font-size: 18px" class="btn btn-block btn-secondary btn-color"><%= d[0] %></button>
-      </a>
+        <% if d[1] == "" %>
+            <button disabled type="button" style="font-weight: 700; font-size: 18px" class="btn btn-block btn-secondary btn-color"><%= d[0] %></button>
+        <% else %>
+          <a href=<%= d[1] %>>
+            <button type="button" style="font-weight: 700; font-size: 18px" class="btn btn-block btn-secondary btn-color"><%= d[0] %></button>
+          </a>
+        <% end %>
       <% end %>
     </div>
   </div>
