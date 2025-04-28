@@ -8,17 +8,17 @@ zh:
   company: 恒基兆業地產集團
   view_map: 查看地圖
   page1:
-    - ["五月一日（星期四）(已額滿)", "https://2vx.co/LErZIpV?lng=zh", "full"]
-    - ["五月二日（星期五）(已額滿)", "https://2vx.co/k6eT5yj?lng=zh", "full"]
-    - ["五月三日（星期六）", "https://2vx.co/E487YW7?lng=zh"]
-    - ["五月四日（星期日）", "https://2vx.co/WAyR5sv?lng=zh"]
-    - ["五月五日（星期一）", "https://2vx.co/vFp9NUR?lng=zh"]
+    - ["五月一日（星期四）(已額滿)", "https://2vx.co/LErZIpV?lng=zh&auto_show_reg_form=true", "full"]
+    - ["五月二日（星期五）(已額滿)", "https://2vx.co/k6eT5yj?lng=zh&auto_show_reg_form=true", "full"]
+    - ["五月三日（星期六）", "https://2vx.co/E487YW7?lng=zh&auto_show_reg_form=true"]
+    - ["五月四日（星期日）", "https://2vx.co/WAyR5sv?lng=zh&auto_show_reg_form=true"]
+    - ["五月五日（星期一）", "https://2vx.co/vFp9NUR?lng=zh&auto_show_reg_form=true"]
   page2:
-    - ["五月一日（星期四）(已額滿)", "https://2vx.co/Dq9BU5U?lng=zh", "full"]
-    - ["五月二日（星期五）(已額滿)", "https://2vx.co/Of75Nj0?lng=zh", "full"]
-    - ["五月三日（星期六）","https://2vx.co/Wjb0967?lng=zh"]
-    - ["五月四日（星期日）","https://2vx.co/7Dd1cXk?lng=zh"]
-    - ["五月五日（星期一）", "https://2vx.co/qJEMKvD?lng=zh"]
+    - ["五月一日（星期四）(已額滿)", "https://2vx.co/Dq9BU5U?lng=zh&auto_show_reg_form=true", "full"]
+    - ["五月二日（星期五）(已額滿)", "https://2vx.co/Of75Nj0?lng=zh&auto_show_reg_form=true", "full"]
+    - ["五月三日（星期六）","https://2vx.co/Wjb0967?lng=zh&auto_show_reg_form=true"]
+    - ["五月四日（星期日）","https://2vx.co/7Dd1cXk?lng=zh&auto_show_reg_form=true"]
+    - ["五月五日（星期一）", "https://2vx.co/qJEMKvD?lng=zh&auto_show_reg_form=true"]
   select_date: 請選擇日期
   des_title1: 《李兆基博士紀念展 - 和光同塵》
   des_content1: 李兆基博士除了是香港地產界傳奇人物，亦是員工敬重的好老闆，家庭中的慈祥父親、祖父，摯友心中的「四哥」，香港市民親切呼喚的「四叔」。
