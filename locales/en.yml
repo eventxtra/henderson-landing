@@ -8,11 +8,11 @@ en:
   company: Henderson Land Group
   view_map: View Map
   page1:
-    - ["May 1 (Thu) (FULL)", "https://2vx.co/LErZIpV?lng=en&auto_show_reg_form=true", "full"]
-    - ["May 2 (Fri) (FULL)", "https://2vx.co/k6eT5yj?lng=en&auto_show_reg_form=true", "full"]
-    - ["May 3 (Sat)", "https://2vx.co/E487YW7?lng=en&auto_show_reg_form=true"]
-    - ["May 4 (Sun)", "https://2vx.co/WAyR5sv?lng=en&auto_show_reg_form=true"]
-    - ["May 5 (Mon)", "https://2vx.co/vFp9NUR?lng=en&auto_show_reg_form=true"]
+    - ["May 1 (Thu) (FULL)", "https://2vx.co/LErZIpV?lng=en", "full"]
+    - ["May 2 (Fri) (FULL)", "https://2vx.co/k6eT5yj?lng=en", "full"]
+    - ["May 3 (Sat)", "https://2vx.co/E487YW7?lng=en"]
+    - ["May 4 (Sun)", "https://2vx.co/WAyR5sv?lng=en"]
+    - ["May 5 (Mon)", "https://2vx.co/vFp9NUR?lng=en"]
   page2:
     - ["May 1 (Thu) (FULL)", "https://2vx.co/Dq9BU5U?lng=en&auto_show_reg_form=true", "full"]
     - ["May 2 (Fri) (FULL)", "https://2vx.co/Of75Nj0?lng=en&auto_show_reg_form=true", "full"]
