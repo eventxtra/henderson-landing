@@ -11,13 +11,13 @@ en:
     - ["May 1 (Thu) (FULL)", "https://2vx.co/LErZIpV?lng=en", "full"]
     - ["May 2 (Fri) (FULL)", "https://2vx.co/k6eT5yj?lng=en", "full"]
     - ["May 3 (Sat) (FULL)", "https://2vx.co/E487YW7?lng=en", "full"]
-    - ["May 4 (Sun)", "https://2vx.co/WAyR5sv?lng=en"]
+    - ["May 4 (Sun) (FULL)", "https://2vx.co/WAyR5sv?lng=en", "full"]
     - ["May 5 (Mon)", "https://2vx.co/vFp9NUR?lng=en"]
   page2:
     - ["May 1 (Thu) (FULL)", "https://2vx.co/Dq9BU5U?lng=en&auto_show_reg_form=true", "full"]
     - ["May 2 (Fri) (FULL)", "https://2vx.co/Of75Nj0?lng=en&auto_show_reg_form=true", "full"]
     - ["May 3 (Sat) (FULL)","https://2vx.co/Wjb0967?lng=en&auto_show_reg_form=true", "full"]
-    - ["May 4 (Sun)","https://2vx.co/7Dd1cXk?lng=en&auto_show_reg_form=true"]
+    - ["May 4 (Sun) (FULL)","https://2vx.co/7Dd1cXk?lng=en&auto_show_reg_form=true", "full"]
     - ["May 5 (Mon)", "https://2vx.co/qJEMKvD?lng=en&auto_show_reg_form=true"]
   select_date: Please select a date
   des_title1: A Light Among Us — Memorial Exhibition of Dr. Lee Shau Kee
@@ -27,3 +27,10 @@ en:
   des_title3: Exhibition Content
   des_content3: "\"A Light Among Us — Memorial Exhibition of Dr. Lee Shau Kee\" provides a serene space for thoughtful reflection and a memorial garden for tributes. It also showcases numerous historical photographs and items related to Dr. Lee's personal background, entrepreneurial journey, family life, and philanthropy. These cherished artifacts include the gold scale from his family's gold shop in Shunde, pocket watches he collected from around the world, and publications from the early days of Henderson Land Development. Henderson cordially invites everyone to join \"A Light Among Us — Memorial Exhibition of Dr. Lee Shau Kee\" to look back on the remarkable life of this business legend and cherish these moments together."
   tnc: "*All participants aged 6 or above are required to register for the activity via this registration form."
+  tnc2_1: "*Please read our "
+  tnc2_2: "activity terms"
+  tnc2_2_link: "https://www.hld.com/media/memorial-exhibition/T&C_ENG_.pdf"
+  tnc2_3: " and "
+  tnc2_4: "privacy policy"
+  tnc2_4_link: "https://www.hld.com/en/privacy-policy"
+  tnc2_5: " for this exhibition."

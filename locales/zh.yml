@@ -11,13 +11,13 @@ zh:
     - ["五月一日（星期四）(已額滿)", "https://2vx.co/LErZIpV?lng=zh", "full"]
     - ["五月二日（星期五）(已額滿)", "https://2vx.co/k6eT5yj?lng=zh", "full"]
     - ["五月三日（星期六）(已額滿)", "https://2vx.co/E487YW7?lng=zh", "full"]
-    - ["五月四日（星期日）", "https://2vx.co/WAyR5sv?lng=zh"]
+    - ["五月四日（星期日）(已額滿)", "https://2vx.co/WAyR5sv?lng=zh", "full"]
     - ["五月五日（星期一）", "https://2vx.co/vFp9NUR?lng=zh"]
   page2:
     - ["五月一日（星期四）(已額滿)", "https://2vx.co/Dq9BU5U?lng=zh&auto_show_reg_form=true", "full"]
     - ["五月二日（星期五）(已額滿)", "https://2vx.co/Of75Nj0?lng=zh&auto_show_reg_form=true", "full"]
     - ["五月三日（星期六）(已額滿)","https://2vx.co/Wjb0967?lng=zh&auto_show_reg_form=true", "full"]
-    - ["五月四日（星期日）","https://2vx.co/7Dd1cXk?lng=zh&auto_show_reg_form=true"]
+    - ["五月四日（星期日）(已額滿)","https://2vx.co/7Dd1cXk?lng=zh&auto_show_reg_form=true", "full"]
     - ["五月五日（星期一）", "https://2vx.co/qJEMKvD?lng=zh&auto_show_reg_form=true"]
   select_date: 請選擇日期
   des_title1: 《李兆基博士紀念展 - 和光同塵》
@@ -27,3 +27,10 @@ zh:
   des_title3: 紀念展內容
   des_content3: "《李兆基博士紀念展 - 和光同塵》展覽以靜謐的空間引導觀眾沉浸思考，並設紀念花園供留言寄思，亦會展出多件和李兆基博士的個人出身、創業經歷，家庭生活和慈善事業有關的歷史圖片和珍藏，包括極具紀念價值，從順德家族金行隨行來港的金秤、李兆基博士從世界各地收集的懷錶，以及恒基兆業開業早期的刊物等。恒基兆業誠邀大家參與《李兆基博士紀念展 - 和光同塵》。一起回顧這位商界巨擘的豐碩人生，懷念他的傳奇點滴。"
   tnc: "*年滿六歲或以上人士需於此網頁報名參與活動。"
+  tnc2_1 : "*請參閱本活動的"
+  tnc2_2: "活動條款"
+  tnc2_2_link: "https://www.hld.com/media/memorial-exhibition/T&C_CHI_.pdf"
+  tnc2_3: "及"
+  tnc2_4: "私隱政策"
+  tnc2_4_link: "https://www.hld.com/tc/privacy-policy"
+  tnc2_5: "｡"
