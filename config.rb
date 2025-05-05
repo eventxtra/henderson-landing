@@ -15,6 +15,8 @@ page '/*.txt', layout: false
 set :build_dir, 'docs'
 activate :relative_assets
 activate :i18n, :mount_at_root => :en
+activate :asset_hash
+activate :minify_html
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
@@ -39,6 +41,8 @@ end
 
 configure :build do
   set :host, 'henderson.eventx.io'
+  activate :minify_css
+  activate :minify_javascript
 end
 
 # Build-specific configuration
